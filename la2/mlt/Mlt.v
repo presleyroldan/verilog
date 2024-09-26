@@ -1,3 +1,5 @@
+
+// Adding comments
 module Fibonacci #(BITS=32)(
     input CLK,
     input [BITS-1:0] A, 
